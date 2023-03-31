@@ -1,6 +1,6 @@
 # ML-basics
 
-Собранные и изучееные знания и практика по Machine Learning:
+Практические знания по Machine Learning:
 * Библиотеки Numpy, Pandas, Matplotlib, Scikit-learn
   1. Numpy & Pandas
   2. Matplotlib
