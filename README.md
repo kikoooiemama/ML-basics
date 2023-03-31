@@ -2,6 +2,11 @@
 
 Собранные и изучееные знания и практика по Machine Learning:
 * Библиотеки Numpy, Pandas, Matplotlib, Scikit-learn
+  1. Numpy & Pandas
+  2. Matplotlib
+  3. Scikit-learn supervised learning
+  4. Scikit-learn unsupervised learning
+
 * Алгоритмы анализа данных
   1. Алгоритм линейной регрессии. Градиентный спуск
   2. Масштабирование признаков. L1- и L2-регуляризация. Стохастический градиентный спуск
